@@ -1,4 +1,4 @@
-# AlgoritmoGenetico
+# Genetic algorithm
 Genetic algorithm in python to find the minimum of eggholder function
 
 ## Developers
